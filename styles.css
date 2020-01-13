@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, dl, dt, dd, 
+ol, ul, li, form, table, caption, tr, th, td, article, aside, footer, header{
+                 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+ body {
+	margin: 0;
+	padding: 0;
+ }
+
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: auto;
+	 height: auto; 
+	 overflow: visible;
+	 z-index:0;
+	 background-color: rgb(196, 129, 129);
+	} 
+#white-line
+{ 
+	left: 0px; 
+	top: 0px; 
+	position: relative; 
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 10rem;
+	 height: 0.5rem; 
+	 background-color: rgb(255, 255, 255);
+}
+#Our-Work{
+	
+	position: relative; 
+	margin-left: auto; 
+	margin-right: auto; 
+	/* width: 20rem; 
+	*/
+}
+ 
